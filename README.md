@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<b>She/They • Coding since 2017 • Discord Bot Whisperer 🤖</b>
+<b>She/They • Coding since 2017 • Discord Bot Developer </b>
 </p>
 
 <p align="center">
