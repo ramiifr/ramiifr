@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Local%20AI%20Research-ffb7c5?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Bot%20Developer-ffb7c5?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Vibe-Cozy%20&%20Coding-c5b7ff?style=flat-square&logoColor=white" />
 </p>
 
