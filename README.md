@@ -43,12 +43,3 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5&height=100&section=footer" width="100%"/>
 </p>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="25" /> The Bot Squad
-
-    My digital creations—built with love (and a lot of debugging).
-
-Bot Name	Specialty	Status
-[Sear]	🛡️ Server Moderation & Security	Active
-[malBot]	🎮 Minigames & Economy	In Development
-[music_bot]	🎵 High-fidelity Music Streaming Paused
