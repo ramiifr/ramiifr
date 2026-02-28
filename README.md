@@ -1,38 +1,45 @@
-👑 Hi, I'm Ramii (@Ramiifr)
+<samp>✨ Hi, I'm Ramii! (@Ramiifr) ✨</samp>
 
-She/They | Developer since 2017
-
-I’m a builder at heart, currently obsessed with making Discord Bots and Local AI Assistants more intuitive and powerful. If it involves automation or an API, I’m probably into it.
-
-🛠 My Multilingual Toolbox
-Area:	Technologies
-Languages: Java, Python, JS, HTML, C#	
-Focus:	Discord API, Cyber Security, Local LLMs, Linux CLI
-OS:	Mainly on Windows but switching to Linux soon! (Currently learning the CLI ropes!)
-
-Current Goals:
-
-  🤖 Discord Bots: Building custom integrations (Ask me about them, I love them sm <3).
-  
-  🧠 Local AI: Developing a privacy-focused assistant that runs on my own hardware.
-
-  🛡️ Security: Learning how to keep my code (and yours) safe from the bad actors.
-
-  Status Report
-
-  👯 Collaboration: Quiet for now. Check back when the coffee levels are higher!
-
-  🤔 Help Needed: If you are a Linux CLI wizard, teach me your ways.
-
-  ⚡ Fun Fact: I’ve been staring at code since 2017—I’ve seen some things.
-
-  <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Ramiifr&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramiifr&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L180ETNtrvOEqXQp4S/giphy.gif" width="150px">
 </p>
 
-Connect with me
+<p align="center">
+<b>She/They • Coding since 2017 • Discord Bot Whisperer 🤖</b>
+</p>
 
-  Discord/Socials: @ramiifr
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Building%20AI%20Friends-ffb7c5?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Vibe-Cozy%20&%20Coding-c5b7ff?style=flat-square&logoColor=white" />
+</p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lotion%20Bottle.png" width="25" /> My Magical Toolkit
 
-  Current Vibe: 👩‍💻✨
+    "Coding is just casting spells with a keyboard." 🪄
+
+    Languages: Python • JavaScript • Java • C#
+
+    Interests: 🛡️ Cyber Security • 🐧 Linux CLI (Learning!) • 🧠 Local AI
+
+    Current Projects: * 🌸 Discord Bots: Ask me about them! I love them sm <3
+
+        🌟 Local AI Assistant: Making my own digital bestie.
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="25" /> The Daily Log
+
+    🔭 Working on: Bringing my bots to life.
+
+    🌱 Learning: How to not break my Linux install (again).
+
+    👯 Collabs: Staying in my cozy bubble for now!
+
+    📫 Reach me: @ramiifr on most socials.
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="25" /> My Coding Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ramiifr&show_icons=true&theme=rose_pine&hide_border=true&border_radius=10" width="400" />
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5&height=100&section=footer" width="100%"/>
+</p>
