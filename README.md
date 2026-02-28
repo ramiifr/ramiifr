@@ -1,7 +1,7 @@
 <samp>✨ Hi, I'm Ramii! (@Ramiifr) ✨</samp>
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L180ETNtrvOEqXQp4S/giphy.gif" width="150px">
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L180ETNtrvOEqXQp4S/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmJ1ajhqa200ZnU3amtkMnY4d3J5ZTZzOXg4OGtrb28wYzNha2lmdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5B4Dl7V8cFaYo/giphy.gif)" width="150px">
 </p>
 
 <p align="center">
